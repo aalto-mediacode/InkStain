@@ -1,2 +1,2 @@
-InkStain - Project for Generative Media Coding //Taavi Kervinen
+InkStain - Project for Generative Media Coding 2020 - Aalto University //Taavi Kervinen
  
